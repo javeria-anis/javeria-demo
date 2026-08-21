@@ -1,2 +1,4 @@
 # javeria-demo
-this is my first Git reposatory
+This is my first Git Repository
+<br>
+Author - Javeria
